@@ -1,0 +1,14 @@
+2025-07-31 20:34:44,263 - INFO - Starting Browser Session...
+2025-07-31 20:34:45,426 - INFO - Browser Launch Successfully.
+2025-07-31 20:34:46,709 - INFO - URL Open Successfully.
+2025-07-31 20:34:46,840 - INFO - Click on Book Now button successfully.
+2025-07-31 20:34:46,881 - INFO - Test Passed. Expected Ticket Error match with Actual Ticket Error.
+2025-07-31 20:34:46,881 - INFO - Script Complete.
+2025-07-31 20:34:46,968 - INFO - End Browser Session...
+2025-08-03 08:45:05,505 - INFO - Starting Browser Session...
+2025-08-03 08:45:06,657 - INFO - Browser Launch Successfully.
+2025-08-03 08:45:07,091 - INFO - URL Open Successfully.
+2025-08-03 08:45:07,219 - INFO - Click on Book Now button successfully.
+2025-08-03 08:45:07,256 - INFO - Test Passed. Expected Ticket Error match with Actual Ticket Error.
+2025-08-03 08:45:07,256 - INFO - Script Complete.
+2025-08-03 08:45:07,343 - INFO - End Browser Session...

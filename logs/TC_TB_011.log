@@ -1,0 +1,20 @@
+2025-07-31 21:06:39,771 - INFO - Starting Browser Session...
+2025-07-31 21:06:40,787 - INFO - Browser Launch Successfully.
+2025-07-31 21:06:41,281 - INFO - URL Open Successfully.
+2025-07-31 21:06:41,522 - INFO - Ticket Number Enter successfully.
+2025-07-31 21:06:41,662 - INFO - Ticket Class Silver - $750 selected.
+2025-07-31 21:06:41,798 - INFO - XSS Injection Promo Code Enter successfully.
+2025-07-31 21:06:41,914 - INFO - Click on Book Now button successfully.
+2025-07-31 21:06:41,958 - INFO - Test Failed. Expected Result does not match with Actual Result.
+2025-07-31 21:06:41,958 - INFO - Script Complete.
+2025-07-31 21:06:42,054 - INFO - End Browser Session...
+2025-08-03 08:46:00,518 - INFO - Starting Browser Session...
+2025-08-03 08:46:01,502 - INFO - Browser Launch Successfully.
+2025-08-03 08:46:01,928 - INFO - URL Open Successfully.
+2025-08-03 08:46:02,035 - INFO - Ticket Number Enter successfully.
+2025-08-03 08:46:02,144 - INFO - Ticket Class Silver - $750 selected.
+2025-08-03 08:46:02,238 - INFO - XSS Injection Promo Code Enter successfully.
+2025-08-03 08:46:02,319 - INFO - Click on Book Now button successfully.
+2025-08-03 08:46:02,351 - INFO - Test Failed. Expected Result does not match with Actual Result.
+2025-08-03 08:46:02,351 - INFO - Script Complete.
+2025-08-03 08:46:02,432 - INFO - End Browser Session...

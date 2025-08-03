@@ -1,0 +1,33 @@
+2025-07-31 20:23:56,415 - INFO - Starting Browser Session...
+2025-07-31 20:23:57,561 - INFO - Browser Launch Successfully.
+2025-07-31 20:23:58,619 - INFO - URL Open Successfully.
+2025-07-31 20:23:58,835 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:23:58,972 - INFO - Ticket Class Silver - $750 selected.
+2025-07-31 20:23:59,128 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:23:59,348 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:23:59,592 - INFO - Click on Book Now button successfully.
+2025-07-31 20:23:59,693 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-07-31 20:23:59,693 - INFO - Script Complete.
+2025-07-31 20:23:59,887 - INFO - End Browser Session...
+2025-07-31 20:24:13,601 - INFO - Starting Browser Session...
+2025-07-31 20:24:14,633 - INFO - Browser Launch Successfully.
+2025-07-31 20:24:16,497 - INFO - URL Open Successfully.
+2025-07-31 20:24:16,840 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:24:17,165 - INFO - Ticket Class Silver - $750 selected.
+2025-07-31 20:24:17,334 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:24:17,578 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:24:17,850 - INFO - Click on Book Now button successfully.
+2025-07-31 20:24:17,966 - INFO - Test Failed. Expected Final Price does not match with Actual Final Price.
+2025-07-31 20:24:17,966 - INFO - Script Complete.
+2025-07-31 20:24:18,095 - INFO - End Browser Session...
+2025-08-03 08:44:46,232 - INFO - Starting Browser Session...
+2025-08-03 08:44:47,330 - INFO - Browser Launch Successfully.
+2025-08-03 08:44:47,815 - INFO - URL Open Successfully.
+2025-08-03 08:44:47,933 - INFO - Ticket Number Enter successfully.
+2025-08-03 08:44:48,046 - INFO - Ticket Class Silver - $750 selected.
+2025-08-03 08:44:48,092 - INFO - Registered User - 'Yes' selected.
+2025-08-03 08:44:48,161 - INFO - Valid Promo Code Enter successfully.
+2025-08-03 08:44:48,245 - INFO - Click on Book Now button successfully.
+2025-08-03 08:44:48,275 - INFO - Test Failed. Expected Final Price does not match with Actual Final Price.
+2025-08-03 08:44:48,275 - INFO - Script Complete.
+2025-08-03 08:44:48,352 - INFO - End Browser Session...

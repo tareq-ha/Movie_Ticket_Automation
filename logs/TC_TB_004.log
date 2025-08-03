@@ -1,0 +1,22 @@
+2025-07-31 20:17:24,637 - INFO - Starting Browser Session...
+2025-07-31 20:17:25,668 - INFO - Browser Launch Successfully.
+2025-07-31 20:17:26,152 - INFO - URL Open Successfully.
+2025-07-31 20:17:26,446 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:17:26,727 - INFO - Ticket Class Silver - $1000 selected.
+2025-07-31 20:17:26,964 - INFO - Registered User - 'No' selected.
+2025-07-31 20:17:27,183 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:17:27,428 - INFO - Click on Book Now button successfully.
+2025-07-31 20:17:27,529 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-07-31 20:17:27,529 - INFO - Script Complete.
+2025-07-31 20:17:27,735 - INFO - End Browser Session...
+2025-08-03 08:44:32,991 - INFO - Starting Browser Session...
+2025-08-03 08:44:33,883 - INFO - Browser Launch Successfully.
+2025-08-03 08:44:34,311 - INFO - URL Open Successfully.
+2025-08-03 08:44:34,420 - INFO - Ticket Number Enter successfully.
+2025-08-03 08:44:34,525 - INFO - Ticket Class Silver - $1000 selected.
+2025-08-03 08:44:34,604 - INFO - Registered User - 'No' selected.
+2025-08-03 08:44:34,676 - INFO - Valid Promo Code Enter successfully.
+2025-08-03 08:44:34,751 - INFO - Click on Book Now button successfully.
+2025-08-03 08:44:34,783 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-08-03 08:44:34,783 - INFO - Script Complete.
+2025-08-03 08:44:34,875 - INFO - End Browser Session...

@@ -1,0 +1,33 @@
+2025-07-31 20:45:43,830 - INFO - Starting Browser Session...
+2025-07-31 20:45:44,825 - INFO - Browser Launch Successfully.
+2025-07-31 20:45:46,310 - INFO - URL Open Successfully.
+2025-07-31 20:45:46,651 - INFO - Non-numeric Ticket Number Enter successfully.
+2025-07-31 20:45:46,967 - INFO - Ticket Class Silver - $750 selected.
+2025-07-31 20:45:47,151 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:45:47,398 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:45:47,693 - INFO - Click on Book Now button successfully.
+2025-07-31 20:45:47,818 - INFO - Test Passed. Expected Ticket Error match with Actual Ticket Error.
+2025-07-31 20:45:47,818 - INFO - Script Complete.
+2025-07-31 20:45:47,942 - INFO - End Browser Session...
+2025-07-31 20:52:03,646 - INFO - Starting Browser Session...
+2025-07-31 20:52:06,717 - INFO - Browser Launch Successfully.
+2025-07-31 20:52:07,280 - INFO - URL Open Successfully.
+2025-07-31 20:52:07,622 - INFO - Non-numeric Ticket Number Enter successfully.
+2025-07-31 20:52:07,920 - INFO - Ticket Class Gold - $1000 selected.
+2025-07-31 20:52:08,083 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:52:08,301 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:52:08,563 - INFO - Click on Book Now button successfully.
+2025-07-31 20:52:08,654 - INFO - Test Passed. Expected Ticket Error match with Actual Ticket Error.
+2025-07-31 20:52:08,654 - INFO - Script Complete.
+2025-07-31 20:52:08,834 - INFO - End Browser Session...
+2025-08-03 08:45:22,996 - INFO - Starting Browser Session...
+2025-08-03 08:45:23,985 - INFO - Browser Launch Successfully.
+2025-08-03 08:45:24,392 - INFO - URL Open Successfully.
+2025-08-03 08:45:24,497 - INFO - Non-numeric Ticket Number Enter successfully.
+2025-08-03 08:45:24,605 - INFO - Ticket Class Gold - $1000 selected.
+2025-08-03 08:45:24,674 - INFO - Registered User - 'Yes' selected.
+2025-08-03 08:45:24,743 - INFO - Valid Promo Code Enter successfully.
+2025-08-03 08:45:24,826 - INFO - Click on Book Now button successfully.
+2025-08-03 08:45:24,855 - INFO - Test Passed. Expected Ticket Error match with Actual Ticket Error.
+2025-08-03 08:45:24,855 - INFO - Script Complete.
+2025-08-03 08:45:24,939 - INFO - End Browser Session...

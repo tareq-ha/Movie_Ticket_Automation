@@ -1,0 +1,22 @@
+2025-07-31 20:20:45,661 - INFO - Starting Browser Session...
+2025-07-31 20:20:46,733 - INFO - Browser Launch Successfully.
+2025-07-31 20:20:47,698 - INFO - URL Open Successfully.
+2025-07-31 20:20:47,879 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:20:48,018 - INFO - Ticket Class VIP - $2000 selected.
+2025-07-31 20:20:48,173 - INFO - Registered User - 'No' selected.
+2025-07-31 20:20:48,319 - INFO - Invalid Promo Code Enter successfully.
+2025-07-31 20:20:48,485 - INFO - Click on Book Now button successfully.
+2025-07-31 20:20:48,555 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-07-31 20:20:48,555 - INFO - Script Complete.
+2025-07-31 20:20:48,696 - INFO - End Browser Session...
+2025-08-03 08:44:39,557 - INFO - Starting Browser Session...
+2025-08-03 08:44:40,825 - INFO - Browser Launch Successfully.
+2025-08-03 08:44:41,242 - INFO - URL Open Successfully.
+2025-08-03 08:44:41,348 - INFO - Ticket Number Enter successfully.
+2025-08-03 08:44:41,458 - INFO - Ticket Class VIP - $2000 selected.
+2025-08-03 08:44:41,536 - INFO - Registered User - 'No' selected.
+2025-08-03 08:44:41,612 - INFO - Invalid Promo Code Enter successfully.
+2025-08-03 08:44:41,693 - INFO - Click on Book Now button successfully.
+2025-08-03 08:44:41,725 - INFO - Test Passed. Expected Final price match with Actual Final Price.
+2025-08-03 08:44:41,725 - INFO - Script Complete.
+2025-08-03 08:44:41,804 - INFO - End Browser Session...

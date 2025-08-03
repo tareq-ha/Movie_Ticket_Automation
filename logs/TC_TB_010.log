@@ -1,0 +1,44 @@
+2025-07-31 20:53:24,275 - INFO - Starting Browser Session...
+2025-07-31 20:53:25,288 - INFO - Browser Launch Successfully.
+2025-07-31 20:53:27,895 - INFO - URL Open Successfully.
+2025-07-31 20:53:28,025 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:53:33,084 - INFO - Element 'Ticket Class' not found with Explicit wait.
+2025-07-31 20:53:33,251 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:53:33,539 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:53:33,815 - INFO - Click on Book Now button successfully.
+2025-07-31 20:53:33,932 - INFO - Test Failed. Expected Final Price does not match with Actual Final Price.
+2025-07-31 20:53:33,933 - INFO - Script Complete.
+2025-07-31 20:53:34,030 - INFO - End Browser Session...
+2025-07-31 20:54:51,195 - INFO - Starting Browser Session...
+2025-07-31 20:54:52,259 - INFO - Browser Launch Successfully.
+2025-07-31 20:54:52,887 - INFO - URL Open Successfully.
+2025-07-31 20:54:53,239 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:54:58,368 - INFO - Element 'Ticket Class' not found with Explicit wait.
+2025-07-31 20:54:58,565 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:54:58,678 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:54:58,773 - INFO - Click on Book Now button successfully.
+2025-07-31 20:54:58,810 - INFO - Test Failed. Expected Final Price does not match with Actual Final Price.
+2025-07-31 20:55:18,811 - INFO - Script Complete.
+2025-07-31 20:55:18,876 - INFO - End Browser Session...
+2025-07-31 20:58:10,391 - INFO - Starting Browser Session...
+2025-07-31 20:58:11,360 - INFO - Browser Launch Successfully.
+2025-07-31 20:58:12,162 - INFO - URL Open Successfully.
+2025-07-31 20:58:12,372 - INFO - Ticket Number Enter successfully.
+2025-07-31 20:58:17,453 - INFO - Element 'Ticket Class' not found with Explicit wait.
+2025-07-31 20:58:17,676 - INFO - Registered User - 'Yes' selected.
+2025-07-31 20:58:17,843 - INFO - Valid Promo Code Enter successfully.
+2025-07-31 20:58:17,939 - INFO - Click on Book Now button successfully.
+2025-07-31 20:58:17,987 - INFO - Test Failed. Expected Final Result DOES NOT match with Actual Final Result.
+2025-07-31 20:58:17,988 - INFO - Script Complete.
+2025-07-31 20:58:18,086 - INFO - End Browser Session...
+2025-08-03 08:45:34,180 - INFO - Starting Browser Session...
+2025-08-03 08:45:35,286 - INFO - Browser Launch Successfully.
+2025-08-03 08:45:35,762 - INFO - URL Open Successfully.
+2025-08-03 08:45:35,876 - INFO - Ticket Number Enter successfully.
+2025-08-03 08:45:40,963 - INFO - Element 'Ticket Class' not found with Explicit wait.
+2025-08-03 08:45:41,038 - INFO - Registered User - 'Yes' selected.
+2025-08-03 08:45:41,122 - INFO - Valid Promo Code Enter successfully.
+2025-08-03 08:45:41,201 - INFO - Click on Book Now button successfully.
+2025-08-03 08:45:41,232 - INFO - Test Failed. Expected Final Result DOES NOT match with Actual Final Result.
+2025-08-03 08:45:41,232 - INFO - Script Complete.
+2025-08-03 08:45:41,312 - INFO - End Browser Session...
