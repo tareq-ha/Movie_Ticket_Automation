@@ -7,5 +7,5 @@
 | Failed | 4|
 | Blocked | 0|
 | Skipped | 1|
-| Success Rate| 66.67%|
-| Failure Rate| 33.33%|
+| Success Rate| 61.54%|
+| Failure Rate| 30.77%|
